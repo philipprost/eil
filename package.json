@@ -9,8 +9,13 @@
   },
   "keywords": [
     "emojis",
-    "emoji",
-    "mappings"
+    "text-to-emoji",
+    "emoji-converter",
+    "emoji-parser",
+    "text-emoji-mapper",
+    "emoji-interaction",
+    "emoji-mappings",
+    "emoji-replacement"
   ],
   "author": "Philipp Rost",
   "license": "MIT",
