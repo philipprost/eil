@@ -1,5 +1,5 @@
 {
-  "name": "eil",
+  "name": "eil-js",
   "version": "0.0.1",
   "description": "The Emoji Interaction Library (EIL) is designed to seamlessly convert text emojis, such as :), into their actual emoji representations, e.g., 🙂. This library supports customization, allowing users to register their own custom emojis or mappings.",
   "main": "index.js",

@@ -7,17 +7,17 @@ Convert text emojis into their actual emoji representations with ease!
 **npm**:
 
 ```bash
-npm install eil
+npm install eil-js
 ```
 
 **cdn**:
 
-`<script src="https://unpkg.com/eil@0.0.1/dist/emojiInteraction.js"></script>`
+`<script src="https://unpkg.com/eil-js@0.0.1/dist/emojiInteraction.js"></script>`
 
 ## Usage
 
 ```javascript
-import { EmojiInteraction } from "eil";
+import { EmojiInteraction } from "eil-js";
 
 const ei = new EmojiInteraction();
 
