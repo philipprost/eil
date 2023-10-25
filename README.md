@@ -1,6 +1,6 @@
 # EIL - Emoji Interaction Library
 
-Convert text emojis into their actual emoji representations with ease!
+Convert emoji shortcodes into their actual emoji representations with ease!
 
 ## Installation
 
@@ -21,16 +21,16 @@ import { EmojiInteraction } from "eil-js";
 
 const ei = new EmojiInteraction();
 
-console.log(ei.convert("Hello :)")); // Outputs: Hello 🙂
+console.log(ei.convert("RocknRoll :the_horns:")); // Outputs: RocknRoll 🤘
 
 // Register custom mapping
-ei.registerMapping(":/", "😕");
+ei.registerMapping("bad_mood", "😕");
 ```
 
 ## Customization
 
 ```javascript
-ei.registerMapping(":D", "😄");
+ei.registerMapping("happy_smile", "😄");
 ```
 
 ## 💡 Contributing
